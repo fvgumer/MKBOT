@@ -554,4 +554,4 @@ async def on_message(message):
         url=mostrarimagen(nick.content)
         await client.send_message(message.channel, url)
 
-client.run('MzIzOTM3MjE1NDg5MTE0MTIz.DCdEaQ.ulkSJ6JIuKrQLEqsi1cp_QMkrkE')
+client.run('')
